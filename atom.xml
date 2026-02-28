@@ -5,9 +5,9 @@
   <subtitle>知行合一</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://huaqiang.art/"/>
+  <link href="http://www.huaqiang.art/"/>
   <updated>2021-01-07T07:31:47.774Z</updated>
-  <id>http://huaqiang.art/</id>
+  <id>http://www.huaqiang.art/</id>
   
   <author>
     <name>王华强</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>切换k8s容器运行时docker到containerd</title>
-    <link href="http://huaqiang.art/2021/01/04/containerd/"/>
-    <id>http://huaqiang.art/2021/01/04/containerd/</id>
+    <link href="http://www.huaqiang.art/2021/01/04/containerd/"/>
+    <id>http://www.huaqiang.art/2021/01/04/containerd/</id>
     <published>2021-01-04T07:27:20.000Z</published>
     <updated>2021-01-07T07:31:47.774Z</updated>
     
@@ -32,17 +32,17 @@
     </summary>
     
     
-      <category term="k8s" scheme="http://huaqiang.art/categories/k8s/"/>
+      <category term="k8s" scheme="http://www.huaqiang.art/categories/k8s/"/>
     
     
-      <category term="docker" scheme="http://huaqiang.art/tags/docker/"/>
+      <category term="docker" scheme="http://www.huaqiang.art/tags/docker/"/>
     
   </entry>
   
   <entry>
     <title>DevOps三步工作法</title>
-    <link href="http://huaqiang.art/2020/12/23/devops_setp/"/>
-    <id>http://huaqiang.art/2020/12/23/devops_setp/</id>
+    <link href="http://www.huaqiang.art/2020/12/23/devops_setp/"/>
+    <id>http://www.huaqiang.art/2020/12/23/devops_setp/</id>
     <published>2020-12-23T07:27:20.000Z</published>
     <updated>2020-12-23T07:44:33.080Z</updated>
     
@@ -55,17 +55,17 @@
     </summary>
     
     
-      <category term="k8s" scheme="http://huaqiang.art/categories/k8s/"/>
+      <category term="k8s" scheme="http://www.huaqiang.art/categories/k8s/"/>
     
     
-      <category term="devops" scheme="http://huaqiang.art/tags/devops/"/>
+      <category term="devops" scheme="http://www.huaqiang.art/tags/devops/"/>
     
   </entry>
   
   <entry>
     <title>容器与云原生</title>
-    <link href="http://huaqiang.art/2020/05/07/containertec/"/>
-    <id>http://huaqiang.art/2020/05/07/containertec/</id>
+    <link href="http://www.huaqiang.art/2020/05/07/containertec/"/>
+    <id>http://www.huaqiang.art/2020/05/07/containertec/</id>
     <published>2020-05-07T06:24:20.000Z</published>
     <updated>2020-05-07T06:41:46.421Z</updated>
     
@@ -78,21 +78,21 @@
     </summary>
     
     
-      <category term="devops" scheme="http://huaqiang.art/categories/devops/"/>
+      <category term="devops" scheme="http://www.huaqiang.art/categories/devops/"/>
     
     
-      <category term="k8s" scheme="http://huaqiang.art/tags/k8s/"/>
+      <category term="k8s" scheme="http://www.huaqiang.art/tags/k8s/"/>
     
-      <category term="devops" scheme="http://huaqiang.art/tags/devops/"/>
+      <category term="devops" scheme="http://www.huaqiang.art/tags/devops/"/>
     
-      <category term="容器云" scheme="http://huaqiang.art/tags/%E5%AE%B9%E5%99%A8%E4%BA%91/"/>
+      <category term="容器云" scheme="http://www.huaqiang.art/tags/%E5%AE%B9%E5%99%A8%E4%BA%91/"/>
     
   </entry>
   
   <entry>
     <title>helm 安装gitlab</title>
-    <link href="http://huaqiang.art/2020/04/13/gitlab/"/>
-    <id>http://huaqiang.art/2020/04/13/gitlab/</id>
+    <link href="http://www.huaqiang.art/2020/04/13/gitlab/"/>
+    <id>http://www.huaqiang.art/2020/04/13/gitlab/</id>
     <published>2020-04-13T13:27:20.000Z</published>
     <updated>2020-04-13T13:33:01.638Z</updated>
     
@@ -105,21 +105,21 @@
     </summary>
     
     
-      <category term="k8s" scheme="http://huaqiang.art/categories/k8s/"/>
+      <category term="k8s" scheme="http://www.huaqiang.art/categories/k8s/"/>
     
     
-      <category term="k8s" scheme="http://huaqiang.art/tags/k8s/"/>
+      <category term="k8s" scheme="http://www.huaqiang.art/tags/k8s/"/>
     
-      <category term="gitlab" scheme="http://huaqiang.art/tags/gitlab/"/>
+      <category term="gitlab" scheme="http://www.huaqiang.art/tags/gitlab/"/>
     
-      <category term="helm" scheme="http://huaqiang.art/tags/helm/"/>
+      <category term="helm" scheme="http://www.huaqiang.art/tags/helm/"/>
     
   </entry>
   
   <entry>
     <title>helm安装openldap</title>
-    <link href="http://huaqiang.art/2020/04/01/openldap/"/>
-    <id>http://huaqiang.art/2020/04/01/openldap/</id>
+    <link href="http://www.huaqiang.art/2020/04/01/openldap/"/>
+    <id>http://www.huaqiang.art/2020/04/01/openldap/</id>
     <published>2020-04-01T14:54:12.000Z</published>
     <updated>2020-04-04T11:00:07.772Z</updated>
     
@@ -132,21 +132,21 @@
     </summary>
     
     
-      <category term="k8s" scheme="http://huaqiang.art/categories/k8s/"/>
+      <category term="k8s" scheme="http://www.huaqiang.art/categories/k8s/"/>
     
     
-      <category term="openLDAP" scheme="http://huaqiang.art/tags/openLDAP/"/>
+      <category term="openLDAP" scheme="http://www.huaqiang.art/tags/openLDAP/"/>
     
-      <category term="k8s" scheme="http://huaqiang.art/tags/k8s/"/>
+      <category term="k8s" scheme="http://www.huaqiang.art/tags/k8s/"/>
     
-      <category term="cert-manager" scheme="http://huaqiang.art/tags/cert-manager/"/>
+      <category term="cert-manager" scheme="http://www.huaqiang.art/tags/cert-manager/"/>
     
   </entry>
   
   <entry>
     <title>k8s证书管理cert-manager</title>
-    <link href="http://huaqiang.art/2020/03/28/cert-manager/"/>
-    <id>http://huaqiang.art/2020/03/28/cert-manager/</id>
+    <link href="http://www.huaqiang.art/2020/03/28/cert-manager/"/>
+    <id>http://www.huaqiang.art/2020/03/28/cert-manager/</id>
     <published>2020-03-28T11:32:22.000Z</published>
     <updated>2020-04-04T09:53:20.008Z</updated>
     
@@ -159,19 +159,19 @@
     </summary>
     
     
-      <category term="k8s" scheme="http://huaqiang.art/categories/k8s/"/>
+      <category term="k8s" scheme="http://www.huaqiang.art/categories/k8s/"/>
     
     
-      <category term="k8s" scheme="http://huaqiang.art/tags/k8s/"/>
+      <category term="k8s" scheme="http://www.huaqiang.art/tags/k8s/"/>
     
-      <category term="cert-manager" scheme="http://huaqiang.art/tags/cert-manager/"/>
+      <category term="cert-manager" scheme="http://www.huaqiang.art/tags/cert-manager/"/>
     
   </entry>
   
   <entry>
     <title>rook使用cephfs</title>
-    <link href="http://huaqiang.art/2020/02/17/rook-cephfs/"/>
-    <id>http://huaqiang.art/2020/02/17/rook-cephfs/</id>
+    <link href="http://www.huaqiang.art/2020/02/17/rook-cephfs/"/>
+    <id>http://www.huaqiang.art/2020/02/17/rook-cephfs/</id>
     <published>2020-02-17T12:36:21.000Z</published>
     <updated>2020-04-04T07:37:24.295Z</updated>
     
@@ -184,21 +184,21 @@
     </summary>
     
     
-      <category term="k8s rook ceph" scheme="http://huaqiang.art/categories/k8s-rook-ceph/"/>
+      <category term="k8s rook ceph" scheme="http://www.huaqiang.art/categories/k8s-rook-ceph/"/>
     
     
-      <category term="k8s" scheme="http://huaqiang.art/tags/k8s/"/>
+      <category term="k8s" scheme="http://www.huaqiang.art/tags/k8s/"/>
     
-      <category term="rook" scheme="http://huaqiang.art/tags/rook/"/>
+      <category term="rook" scheme="http://www.huaqiang.art/tags/rook/"/>
     
-      <category term="分布式存储" scheme="http://huaqiang.art/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8/"/>
+      <category term="分布式存储" scheme="http://www.huaqiang.art/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8/"/>
     
   </entry>
   
   <entry>
     <title>rook安装及使用ceph rbd</title>
-    <link href="http://huaqiang.art/2020/02/10/rook-install/"/>
-    <id>http://huaqiang.art/2020/02/10/rook-install/</id>
+    <link href="http://www.huaqiang.art/2020/02/10/rook-install/"/>
+    <id>http://www.huaqiang.art/2020/02/10/rook-install/</id>
     <published>2020-02-10T13:00:01.000Z</published>
     <updated>2020-04-04T09:52:17.176Z</updated>
     
@@ -211,21 +211,21 @@
     </summary>
     
     
-      <category term="k8s rook ceph" scheme="http://huaqiang.art/categories/k8s-rook-ceph/"/>
+      <category term="k8s rook ceph" scheme="http://www.huaqiang.art/categories/k8s-rook-ceph/"/>
     
     
-      <category term="k8s" scheme="http://huaqiang.art/tags/k8s/"/>
+      <category term="k8s" scheme="http://www.huaqiang.art/tags/k8s/"/>
     
-      <category term="rook" scheme="http://huaqiang.art/tags/rook/"/>
+      <category term="rook" scheme="http://www.huaqiang.art/tags/rook/"/>
     
-      <category term="分布式存储" scheme="http://huaqiang.art/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8/"/>
+      <category term="分布式存储" scheme="http://www.huaqiang.art/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8/"/>
     
   </entry>
   
   <entry>
     <title>我为什么会被kubernetes圈粉</title>
-    <link href="http://huaqiang.art/2019/08/16/whyk8s/"/>
-    <id>http://huaqiang.art/2019/08/16/whyk8s/</id>
+    <link href="http://www.huaqiang.art/2019/08/16/whyk8s/"/>
+    <id>http://www.huaqiang.art/2019/08/16/whyk8s/</id>
     <published>2019-08-16T13:37:20.000Z</published>
     <updated>2020-04-04T07:18:09.863Z</updated>
     
@@ -238,21 +238,21 @@
     </summary>
     
     
-      <category term="k8s" scheme="http://huaqiang.art/categories/k8s/"/>
+      <category term="k8s" scheme="http://www.huaqiang.art/categories/k8s/"/>
     
     
-      <category term="k8s" scheme="http://huaqiang.art/tags/k8s/"/>
+      <category term="k8s" scheme="http://www.huaqiang.art/tags/k8s/"/>
     
-      <category term="docker" scheme="http://huaqiang.art/tags/docker/"/>
+      <category term="docker" scheme="http://www.huaqiang.art/tags/docker/"/>
     
-      <category term="云计算" scheme="http://huaqiang.art/tags/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
+      <category term="云计算" scheme="http://www.huaqiang.art/tags/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
     
   </entry>
   
   <entry>
     <title>Service mesh 之 初探（一）</title>
-    <link href="http://huaqiang.art/2019/07/07/ServiceMesh/"/>
-    <id>http://huaqiang.art/2019/07/07/ServiceMesh/</id>
+    <link href="http://www.huaqiang.art/2019/07/07/ServiceMesh/"/>
+    <id>http://www.huaqiang.art/2019/07/07/ServiceMesh/</id>
     <published>2019-07-07T12:37:20.000Z</published>
     <updated>2020-04-04T07:35:12.871Z</updated>
     
@@ -265,21 +265,21 @@
     </summary>
     
     
-      <category term="k8s" scheme="http://huaqiang.art/categories/k8s/"/>
+      <category term="k8s" scheme="http://www.huaqiang.art/categories/k8s/"/>
     
     
-      <category term="k8s" scheme="http://huaqiang.art/tags/k8s/"/>
+      <category term="k8s" scheme="http://www.huaqiang.art/tags/k8s/"/>
     
-      <category term="docker" scheme="http://huaqiang.art/tags/docker/"/>
+      <category term="docker" scheme="http://www.huaqiang.art/tags/docker/"/>
     
-      <category term="service mesh" scheme="http://huaqiang.art/tags/service-mesh/"/>
+      <category term="service mesh" scheme="http://www.huaqiang.art/tags/service-mesh/"/>
     
   </entry>
   
   <entry>
     <title>prometheus 配置钉钉告警</title>
-    <link href="http://huaqiang.art/2019/05/28/alertmanager/"/>
-    <id>http://huaqiang.art/2019/05/28/alertmanager/</id>
+    <link href="http://www.huaqiang.art/2019/05/28/alertmanager/"/>
+    <id>http://www.huaqiang.art/2019/05/28/alertmanager/</id>
     <published>2019-05-28T12:30:20.000Z</published>
     <updated>2020-04-04T10:01:08.095Z</updated>
     
@@ -292,21 +292,21 @@
     </summary>
     
     
-      <category term="k8s" scheme="http://huaqiang.art/categories/k8s/"/>
+      <category term="k8s" scheme="http://www.huaqiang.art/categories/k8s/"/>
     
     
-      <category term="k8s" scheme="http://huaqiang.art/tags/k8s/"/>
+      <category term="k8s" scheme="http://www.huaqiang.art/tags/k8s/"/>
     
-      <category term="prometheus" scheme="http://huaqiang.art/tags/prometheus/"/>
+      <category term="prometheus" scheme="http://www.huaqiang.art/tags/prometheus/"/>
     
-      <category term="监控" scheme="http://huaqiang.art/tags/%E7%9B%91%E6%8E%A7/"/>
+      <category term="监控" scheme="http://www.huaqiang.art/tags/%E7%9B%91%E6%8E%A7/"/>
     
   </entry>
   
   <entry>
     <title>docker中的top命令</title>
-    <link href="http://huaqiang.art/2019/05/23/top/"/>
-    <id>http://huaqiang.art/2019/05/23/top/</id>
+    <link href="http://www.huaqiang.art/2019/05/23/top/"/>
+    <id>http://www.huaqiang.art/2019/05/23/top/</id>
     <published>2019-05-23T12:37:20.000Z</published>
     <updated>2020-04-04T07:16:14.242Z</updated>
     
@@ -319,19 +319,19 @@
     </summary>
     
     
-      <category term="docker" scheme="http://huaqiang.art/categories/docker/"/>
+      <category term="docker" scheme="http://www.huaqiang.art/categories/docker/"/>
     
     
-      <category term="linux" scheme="http://huaqiang.art/tags/linux/"/>
+      <category term="linux" scheme="http://www.huaqiang.art/tags/linux/"/>
     
-      <category term="docker" scheme="http://huaqiang.art/tags/docker/"/>
+      <category term="docker" scheme="http://www.huaqiang.art/tags/docker/"/>
     
   </entry>
   
   <entry>
     <title>理解系统中的cache &amp; buffer</title>
-    <link href="http://huaqiang.art/2019/05/21/buffer_cache/"/>
-    <id>http://huaqiang.art/2019/05/21/buffer_cache/</id>
+    <link href="http://www.huaqiang.art/2019/05/21/buffer_cache/"/>
+    <id>http://www.huaqiang.art/2019/05/21/buffer_cache/</id>
     <published>2019-05-21T12:37:20.000Z</published>
     <updated>2020-04-04T10:00:36.814Z</updated>
     
@@ -344,19 +344,19 @@
     </summary>
     
     
-      <category term="操作系统" scheme="http://huaqiang.art/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+      <category term="操作系统" scheme="http://www.huaqiang.art/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
     
     
-      <category term="linux" scheme="http://huaqiang.art/tags/linux/"/>
+      <category term="linux" scheme="http://www.huaqiang.art/tags/linux/"/>
     
-      <category term="概念" scheme="http://huaqiang.art/tags/%E6%A6%82%E5%BF%B5/"/>
+      <category term="概念" scheme="http://www.huaqiang.art/tags/%E6%A6%82%E5%BF%B5/"/>
     
   </entry>
   
   <entry>
     <title>灾备的终极目标</title>
-    <link href="http://huaqiang.art/2019/05/17/it/"/>
-    <id>http://huaqiang.art/2019/05/17/it/</id>
+    <link href="http://www.huaqiang.art/2019/05/17/it/"/>
+    <id>http://www.huaqiang.art/2019/05/17/it/</id>
     <published>2019-05-17T14:37:20.000Z</published>
     <updated>2020-04-04T07:37:51.544Z</updated>
     
@@ -369,19 +369,19 @@
     </summary>
     
     
-      <category term="IT理念" scheme="http://huaqiang.art/categories/IT%E7%90%86%E5%BF%B5/"/>
+      <category term="IT理念" scheme="http://www.huaqiang.art/categories/IT%E7%90%86%E5%BF%B5/"/>
     
     
-      <category term="概念" scheme="http://huaqiang.art/tags/%E6%A6%82%E5%BF%B5/"/>
+      <category term="概念" scheme="http://www.huaqiang.art/tags/%E6%A6%82%E5%BF%B5/"/>
     
-      <category term="灾备" scheme="http://huaqiang.art/tags/%E7%81%BE%E5%A4%87/"/>
+      <category term="灾备" scheme="http://www.huaqiang.art/tags/%E7%81%BE%E5%A4%87/"/>
     
   </entry>
   
   <entry>
     <title>静态博客之hexo</title>
-    <link href="http://huaqiang.art/2018/05/18/hexo/"/>
-    <id>http://huaqiang.art/2018/05/18/hexo/</id>
+    <link href="http://www.huaqiang.art/2018/05/18/hexo/"/>
+    <id>http://www.huaqiang.art/2018/05/18/hexo/</id>
     <published>2018-05-18T14:37:20.000Z</published>
     <updated>2020-04-04T09:52:02.757Z</updated>
     
